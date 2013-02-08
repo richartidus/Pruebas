@@ -1,0 +1,8 @@
+[user]
+    name = Ricardo Meana de la Llave
+    email = richartidus@gmail.com
+[color]
+    status = auto
+    branch = auto
+    diff = auto
+    interactive = auto
